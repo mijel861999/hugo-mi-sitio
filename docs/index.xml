@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mi sitio</title>
-    <link>http://example.org/</link>
+    <link>https://mijel861999.github.io/hugo-mi-sitio/</link>
     <description>Recent content on Mi sitio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 09 Mar 2022 18:24:51 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Mar 2022 18:24:51 -0500</lastBuildDate><atom:link href="https://mijel861999.github.io/hugo-mi-sitio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer Posts</title>
-      <link>http://example.org/posts/primer-posts/</link>
+      <link>https://mijel861999.github.io/hugo-mi-sitio/posts/primer-posts/</link>
       <pubDate>Wed, 09 Mar 2022 18:24:51 -0500</pubDate>
       
-      <guid>http://example.org/posts/primer-posts/</guid>
+      <guid>https://mijel861999.github.io/hugo-mi-sitio/posts/primer-posts/</guid>
       <description>Este es el primer posts</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
+      <link>https://mijel861999.github.io/hugo-mi-sitio/contacto/</link>
       <pubDate>Wed, 09 Mar 2022 18:19:32 -0500</pubDate>
       
-      <guid>http://example.org/contacto/</guid>
+      <guid>https://mijel861999.github.io/hugo-mi-sitio/contacto/</guid>
       <description>Este es un sitio web creado con hugo
  Rapido  </description>
     </item>
